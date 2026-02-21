@@ -4,3 +4,5 @@ Q2: What field could data science be applied to? Give an Example.
 Statistics
 Q3: What is the difference between Merging and Rebasing?
 Merge joins branches; rebase moves commits.
+Q4: What are you looking forward to this semester?
+Learning
